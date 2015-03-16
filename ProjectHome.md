@@ -1,0 +1,1 @@
+A PHP function that uses a YouTube Video ID to generate an flv location. For use in other scripts.
